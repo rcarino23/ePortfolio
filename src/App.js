@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>
-          Test
+          Test Lang
         </h1>
         <p>
           live diay ni erase
